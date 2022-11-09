@@ -30,7 +30,7 @@ url: "https://knumskull.pages.io" # the base hostname & protocol for your site, 
 github_username:  knumskull
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
