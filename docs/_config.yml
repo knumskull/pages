@@ -29,11 +29,13 @@ url: "https://knumskull.pages.io" # the base hostname & protocol for your site, 
 #twitter_username: jekyllrb
 github_username:  knumskull
 
+show_downloads: false
+google_analytics: false
+
 # Build settings
 markdown: kramdown
-theme: minima
-#remote_theme: pages-themes/hacker@v0.2.0
-#remote_theme: pages-themes/midnight@v0.2.0
+#theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
